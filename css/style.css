@@ -1,0 +1,10 @@
+#title{
+    color: blue;
+    font-size: 30px;
+}
+.details{
+    color: darkred;
+    background-color: orange;
+    height: 300px;
+    width: 300px;
+}
