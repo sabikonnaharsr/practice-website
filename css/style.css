@@ -10,4 +10,9 @@
 }
 p{
     background-color: orange;
+    height: 300px;
+    width: 200px;
+}
+#details p{
+    background-color: darkorange;
 }
